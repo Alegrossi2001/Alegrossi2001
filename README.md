@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Unity, Csharp and software development
-- 🌱 I’m currently learning Csharp!
-- 💞️ I'm a newbie, still learning!
+- I do random projects and forget i started them.
+- Currently in Poznan, Poland
 - 📫 contact me: alegrossi2001@gmail.com
 
 <!---
